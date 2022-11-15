@@ -15,8 +15,8 @@ provider "aws" {
   #profile = "default"
   #region  = "us-east-1"
   region                      = "us-east-1"
-  access_key                  = "AKIA54KPZ4UPVORNHIWX"
-  secret_key                  = "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"
+  access_key                  = ""
+  secret_key                  = "/nN7FATfGd/f"
   s3_use_path_style           = true
   skip_credentials_validation = true
   skip_metadata_api_check     = true
